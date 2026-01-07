@@ -1,4 +1,4 @@
-# Chatbot using Python 🤖
+# Chatbot using Python 
 
 ## Description
 This project is a Python-based chatbot developed to interact with users and respond to common queries.  
